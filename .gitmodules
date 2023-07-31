@@ -1,6 +1,7 @@
 [submodule "assets/lib"]
 	path = assets/lib
 	url = https://github.com/cotes2020/chirpy-static-assets.git
-[submodule "_posts"]
+[submodule "_posts/vscode-source-code-analysis"]
 	path = _posts/vscode-source-code-analysis
 	url = https://github.com/Bistard/vscode-source-code-analysis.git
+	branch = master
