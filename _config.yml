@@ -90,7 +90,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Bistard/https://github.com/Bistard/Bistard.github.io
+    repo: Bistard/Bistard.github.io
     repo_id: R_kgDOKBe4Bg
     category: Announcements
     category_id: DIC_kwDOKBe4Bs4CYQsZ
